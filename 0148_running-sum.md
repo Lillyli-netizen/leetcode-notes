@@ -61,6 +61,8 @@
 
 命名约定和报错含义见 README 的「Python 刷题通用写法」和「常见报错」。
 
+列表 `append`、空列表 `[]` 的语法见 [Python基础04 数据容器](https://blog.csdn.net/qq_63283852/article/details/166257142)。
+
 ## 代码
 
 ```python
