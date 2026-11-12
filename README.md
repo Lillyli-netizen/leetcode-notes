@@ -38,7 +38,7 @@ class Solution:
 
 遍历值用 `x`、`n`、`num`；遍历索引用 `i`，取值要写 `nums[i]`。
 
-循环语法见 [Python基础03 条件判断、模式匹配与循环](https://blog.csdn.net/qq_63283852/article/details/166015640)。
+循环语法见 [Python基础03 条件判断、模式匹配与循环](https://blog.csdn.net/qq_63283852/article/details/166015640)，或查看 [GitHub 版本](https://github.com/Lillyli-netizen/python-notes/blob/master/notes/03_条件判断模式匹配循环.md)。
 
 ### 容器初始化
 
@@ -46,11 +46,11 @@ class Solution:
 
 实例：[1480 的卡点第 1 条](0148_running-sum.md)。
 
-列表、字典的方法见 [Python基础04 数据容器](https://blog.csdn.net/qq_63283852/article/details/166257142)。
+列表、字典的方法见 [Python基础04 数据容器](https://blog.csdn.net/qq_63283852/article/details/166257142)，或查看 [GitHub 版本](https://github.com/Lillyli-netizen/python-notes/blob/master/notes/04_数据容器.md)。
 
 ## 常见报错
 
-异常与报错处理见 [Python基础07 面向对象与异常处理](https://blog.csdn.net/qq_63283852/article/details/166643107)。
+异常与报错处理见 [Python基础07 面向对象与异常处理](https://blog.csdn.net/qq_63283852/article/details/166643107)，或查看 [GitHub 版本](https://github.com/Lillyli-netizen/python-notes/blob/master/notes/07_面向对象与异常处理.md)。
 
 | 报错             | 真实含义               | 典型场景                                |
 | ---------------- | ---------------------- | --------------------------------------- |
